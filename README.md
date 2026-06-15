@@ -12,6 +12,8 @@
 
 📄 논문 전문: [`paper/paper_kr.pdf`](paper/paper_kr.pdf) · 📓 분석 코드: [`analysis.ipynb`](analysis.ipynb)
 
+📅 **개발 기간:** 2025.09 ~ 2025.12 (2학년 2학기)
+
 ---
 
 ## 🧩 연구 질문
